@@ -4,7 +4,7 @@ Sometimes you don't remember if it was sunny or cloudy the day before. Or maybe 
 
 ## The data
 
-Use https://openweathermap.org/current API to get and log the current weather data. You are free to choose the type of data to log (temperature, humidity, pressure, wind etc). The location and the logging interval is up to you as well. 
+Use https://openweathermap.org/current API to get and log the current weather data. You are free to choose the type of data to log and visualize (temperature, humidity, pressure, wind etc). The location and the logging interval is up to you as well. 
 
 ## Your task
 
